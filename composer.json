@@ -1,0 +1,17 @@
+{
+    "name": "itrax/db",
+    "description": "db package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Itrax\\Db\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mariam Rizk",
+            "email": "Mariam.rizk336@gmail.com"
+        }
+    ],
+    "require": {}
+}

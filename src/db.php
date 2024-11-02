@@ -1,6 +1,6 @@
 <?php
 
-
+namespace Itrax\Db; 
 class db {
 
     private $table;
